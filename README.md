@@ -6,7 +6,7 @@
 -->
 I am **Menglu Tao** or **"Meng"**, a growing **full stack developer** and **data analyst** always passionate about exploring and creating interesting coding experiences.
 
-- 🔭 I’m currently doing my MSc degree in Universiy of Padova, located in a beatuful cozy city in Italy (30km from Venice) 
+- 🔭 I’m doing my MSc degree in Universiy of Padova, but currently residing in Tallinn, Estonia.
 - 🌱 I’m currently learning React.js / Node.js and photography.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/menglu-tao-12b722111/)
