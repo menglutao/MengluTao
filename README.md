@@ -12,6 +12,6 @@ I am **Tao**, a **software engineer** and a passionate open source contributor.
 
 
 
-Heyyy here's gonna be a bit silent for a while because I started my cooperate job in Sep 2024. Yeahhh exciting! 
+Heyyy here's gonna be a bit silent for a while because I started my fulltime job in Sep 2024. Yeahhh exciting! 
 Might come back for some interesting ideas, so stay tuned!
 
